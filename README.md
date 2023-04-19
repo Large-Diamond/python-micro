@@ -7,7 +7,7 @@
 - [x] argparse - command line arguments
 - [x] [pdm](https://github.com/pdm-project/pdm) - package manager
 - [ ] [attrs](https://github.com/python-attrs/attrs) - class decorators
-- [x] [black](https://github.com/psf/black) - code formatter
+- [x] [ruff](https://github.com/charliermarsh/ruff) - code linter
 - [ ] [pytest](https://github.com/pytest-dev/pytest) - testing framework
 - [ ] [loguru](https://github.com/Delgan/loguru) - simple and structured logging
 - [ ] [requests](https://github.com/psf/requests) - python client
