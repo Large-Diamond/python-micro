@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: pdm.lock
+  checksum: b485c8b58b0ddd7f570cb285fbf69a9147b33032c7afb3f2670f36dd18da4f75
+version: ""

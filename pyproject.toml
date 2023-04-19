@@ -1,7 +1,7 @@
 [tool.pdm]
 [tool.pdm.dev-dependencies]
 dev = [
-    "black>=23.1.0",
+    "ruff>=0.0.261",
 ]
 
 [project]
