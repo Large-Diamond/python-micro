@@ -44,3 +44,27 @@ pipx ensurepath
 ```sh
 pipx install poetry
 ```
+
+vscode configs
+
+use in-project virtualenv
+
+```sh
+poetry config virtualenvs.in-project true
+```
+
+remove global virtualenvs
+
+```sh
+poetry env list
+poetry env remove <current environment>
+poetry config virtualenvs.in-project true
+poetry install
+```
+
+vscode python extension select the in-project interpreter
+
+```sh
+cmd + shift + p
+>Python: Select Interpreter
+```
