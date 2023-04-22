@@ -30,3 +30,16 @@ conda create -n sage sage python=X
 conda activate sage
 sage
 ```
+
+## pipx
+
+```sh
+pip install pipx
+pipx ensurepath
+```
+
+## poetry
+
+```sh
+pipx install poetry
+```
