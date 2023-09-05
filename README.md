@@ -18,7 +18,7 @@
 
 ## Libs
 
-- loguru
+- loguru - simple and structured logging
 
 ## Tools
 
@@ -26,6 +26,11 @@
 - miniconda - not support macOS m1
 - miniforge(conda-forge) - support macOS m1
 - sage
+
+## src layout vs flat layout
+
+- <https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/>
+
 
 ## Sage
 
