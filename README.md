@@ -16,6 +16,10 @@
 - [ ] [pipx](https://github.com/pypa/pipx) - install and run python applications in isolated environments
 - [ ] [mypy](https://mypy.readthedocs.io/en/stable/) - static type checker
 
+## Libs
+
+- loguru
+
 ## Tools
 
 - <https://github.com/mamba-org/mamba> - faster alternative to conda
