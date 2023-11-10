@@ -15,6 +15,7 @@
 - [ ] [requests](https://github.com/psf/requests) - python client
 - [ ] [pipx](https://github.com/pypa/pipx) - install and run python applications in isolated environments
 - [ ] [mypy](https://mypy.readthedocs.io/en/stable/) - static type checker
+- [ ] [httpx](https://www.python-httpx.org/) - next generation http client
 
 ## Libs
 
