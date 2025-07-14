@@ -20,6 +20,7 @@
 ## Libs
 
 - loguru - simple and structured logging
+- [ta-box](https://github.com/quantmew/ta-box) - pure python ta-lib
 
 ## Tools
 
